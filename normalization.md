@@ -1,0 +1,1 @@
+<p>Normalizing code in the thrid norminal form, there were no redundacies so i left it untouched</p>
