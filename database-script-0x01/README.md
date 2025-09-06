@@ -1,0 +1,1 @@
+<p>These are the SQL queries for creating new tables</p>
